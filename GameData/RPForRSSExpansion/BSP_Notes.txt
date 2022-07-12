@@ -1,0 +1,10 @@
+Bennu: Closer to Earth than Mars and Venus - Configured a little lower than Phobos and Deimos
+Chariklo: Lies between Saturn and Uranus - Therefore shares the average body-science value between them.
+Ida, Dactyl, Juno, Lutetia, Churyumov-Gerasimenko: Every body belonging to the Asteroid Belt will share the same science values as Ceres and Vesta.
+Pallas: More science valuable than the average asteroid belt object as "Pallas's orbit is unusually highly inclined to the plane of the asteroid belt, making Pallas relatively inaccessible to spacecraft" - From Wikipedia
+Halley: Same value as Neptune, due to the fact that half of the orbit intersects it (Well it's Uranus actually, but we should also account for the inclination.
+Adrastia, Amalthea, Metis: All based on the original Galileo moons.
+Daphnis, Epimetheus, Hyperion, Janus, Pan, Pandora, Phoebe, Prometheus: The same as all of Saturn's original moons.
+Proteus: The same as Triton.
+Hydra, Kerberos, Nix, Styx: Based on Pluto and Charon.
+Makemake, Orcus, Vanth: Same as all of the Kuiper Belt objects, except Sedna, which is the most valuable of all.
