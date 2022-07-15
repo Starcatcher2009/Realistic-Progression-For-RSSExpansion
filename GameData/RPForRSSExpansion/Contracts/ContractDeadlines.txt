@@ -1,0 +1,7 @@
+Bennu: 3 years
+Chariklo: 12 years
+Ida, Dactyl, Juno, Lutetia, Churyumov-Gerasimenko: 4 years
+Halley, Adrastea, Almathea, Metis, Pallas: 5 years                                                            
+Daphnis, Epimetheus, Hyperion, Janus, Pan, Pandora, Phoebe, Prometheus: 10 years
+Proteus, Hydra, Kerberos, Nix, Styx, Makemake, Orcus, Vanth: 15 years
+Sedna: 40 years
